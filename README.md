@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/vladimir-semeryuk/testimonials-fm)
+- [Live Site URL](https://vladimir-semeryuk.github.io/testimonials-fm/)
 
 ## My process
 
